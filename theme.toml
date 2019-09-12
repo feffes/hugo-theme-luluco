@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "luluco"
+license = "MIT"
+licenselink = "https://github.com/feffes/hugo-theme-luluco/blob/master/LICENSE.md"
+description = "A dark blog theme with colors from luluco. Originally based off Minos. Colors and header layout inspired by https://github.com/Neulana/the-shell-pro, a ghost theme."
+homepage = "https://github.com/feffes/hugo-theme-luluco"
+tags = ["blog", "minimal", "dark"]
+features = ["blog", ""]
+min_version = 0.20
+
+[author]
+  name = "feffe"
+  homepage = "https://github.com/feffes/"
+
+[original]
+  name = "Carson Ip"
+  homepage = "https://github.com/carsonip"
+  repo = "https://github.com/carsonip/hugo-theme-minos"
